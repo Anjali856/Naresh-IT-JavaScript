@@ -1,4 +1,4 @@
-# 🏦 Bank Account Management System (JavaScript)
+Bank Account Management System (JavaScript)
 
 This project is a simple **Bank Account Management System** implemented in **JavaScript**.  
 It demonstrates the use of **arrays**, **functions**, and **object manipulation** to manage customer accounts — including **deposit**, **withdrawal**, and **balance checking** operations.
