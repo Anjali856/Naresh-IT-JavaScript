@@ -1,4 +1,4 @@
-# 🔢 Find Missing Number in an Array (JavaScript)
+#Find Missing Number in an Array (JavaScript)
 
 ## 📌 Project Overview
 This project provides a **JavaScript solution** to find the missing number(s) in a continuous array of numbers. It handles two scenarios:
