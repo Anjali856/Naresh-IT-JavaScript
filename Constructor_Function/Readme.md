@@ -1,4 +1,4 @@
-# 📚 Library Management System (JavaScript)
+#  Library Management System (JavaScript)
 
 A simple **JavaScript program** to manage a small book library.  
 It allows you to **find a specific book** and **list all available books** using built-in array methods like `.find()` and `.filter()`.
