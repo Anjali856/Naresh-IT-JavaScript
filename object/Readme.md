@@ -5,7 +5,7 @@ It demonstrates the use of **arrays**, **functions**, and **object manipulation*
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This program simulates basic banking operations for multiple customers.  
 It uses an array of account objects and provides functions to:
